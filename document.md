@@ -75,7 +75,7 @@
   il's ont probâblement déja mis ou rootkit sur ton ordi, donc réinstalle tout, et par tous,
   je veux dire TOUS, y compris le UEFI ou l'autre vieux truc si ta un plus vieux ordi,
   si tu prense que sa fait rien, t'as aucun autre chois que de le mettre dans le feux
-  ou demander l,aide de professionelles, si qui vas couter cher...
+  ou demander l'aide de professionelles, se qui vas couter cher...
 
   - Donc vas explorer dans les terrains battues avant d'aller dans la jungle, compris?
 
@@ -85,7 +85,7 @@
    because you would otherwise already be snoring by now.
 
    - I now want to ask you a tiny, tiny favor...
-   Help add things with me, if you're reading this I may even have already finished school,
+   Help add things with me, if you're reading this I may even or may not have already finished high school,
    I will continue adding things until then though, so I want to ask you to help out if you can,
    no matter how useless it seems, as long as its useful to... someone, its okay.
 
