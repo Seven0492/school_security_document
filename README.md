@@ -12,16 +12,16 @@ La réponse est simple.
 
 - Qu'and tu édite quelque chose tu dois le publier
   dans une autre branche et faire une 'pull' request
-  pour les fusionner ensembles ensemble.
+  pour les fusionner ensembles.
 - Chaque contribution au document de sécurité dois achever
   une de trois choses. 
   
   1. Être claire, même si je ne
-     suis pas le meilleur éxemple,
+     suis pas le meilleur exemple,
      tu pourrais montrer des liens
      qui explique une partie du sujet
      que tu as de la misère à expliquer
-     d'une façon coérrente.
+     d'une façon cohérrente.
   
   2. Aider quelqu'un, c'elle la
      n'est pas claire, mais si
@@ -31,7 +31,7 @@ La réponse est simple.
      'accidents' deux fois,
      tes requêttes 'pull' ne
      seront plus accepter pour
-     un montant indeterminé
+     un montant indéterminé
      de temps.
      (À préciser le temps dans le future)
      
